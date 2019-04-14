@@ -8,13 +8,13 @@ in fact exactly like it.
 > It could both be true that, from the perspective of others, something will kill you
 > in the end, while from _your_ perspective you will survive every accident or illness.
 
-While superficially similar to the idea of 'Quantum Immortality'[^1], we do not depend
-on any many-world effects, and neither do we require the existence of a non-material
+While superficially similar to the idea of 'Quantum Immortality', we do not depend
+on many-world effects, and neither do we require the existence of a non-material
 soul.
 
 ## Continuity of self
 
-We begin with some assumptions on about the nature of subjective experience, in
+We begin with some assumptions on the nature of subjective experience, in
 decreasing order of plausibility:
 
 1. Continuity of time is not necessary for continuity of subjective experience.
@@ -79,7 +79,7 @@ eventually, recur; every consciousness travels a thread that is infinitely long.
   Or, and here we arrive at another imaginative difficulty,
   could your experience bifurcate?
 
-* While _objectively_ these are two different beings, _subjectively_
+  While _objectively_ these are two different beings, _subjectively_
   the conscious experience will flip from one to the other without noticing the
   change (memories, after all, are physical features of the brain).
 
@@ -94,11 +94,11 @@ eventually, recur; every consciousness travels a thread that is infinitely long.
   think of a single thread at all? 
 	    
 * Is the idea of Free Will relevant here? No.
-  Free Will implies the existence of choices, but one could imagine having a
+  Free Will implies the existence of real choices, but one could imagine having a
   subjective experience entirely devoid of choice. Imagine that your existence is
   nothing but an endless cinema. You would still _experience_ it, though never
   be called upon to make a single decision. Imagine that the universe is
-  deterministic, and that even the decisions you think you are making where
+  deterministic, and that even the decisions you think you are making were
   truly already determined. You are still experiencing them. (This is circular, as
   we are assuming that Free Will is not a precondition to the possibility of
   subjective experience. But it is difficult to see exactly why that should be,
@@ -147,5 +147,3 @@ eventually, recur; every consciousness travels a thread that is infinitely long.
 * We can go further. If the flow of time is not a barrier, perhaps there is
   only _one_ conscious entity who, piece by piece, experiences everything, forever.
   A god not of creation, but of experience.
-
-
