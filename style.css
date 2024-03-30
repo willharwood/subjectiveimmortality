@@ -17,6 +17,8 @@ pre {
     background-color: #ececec;
     color: #1111111;
     padding: 0.5em;
+    font-family: monospace;
+    font-size: 14pt;
 }
 code {
     font-family: monospace;
@@ -31,7 +33,7 @@ h1, h2, h3, h4, h5 { font-family: 'EB Garamond', "Times New Roman", serif;
                      /*border-bottom: 1px dotted black;*/
                       }
 h1 {
-        font-size: 730%;
+        font-size: 630%;
 	line-height: 100%;
 }
 
