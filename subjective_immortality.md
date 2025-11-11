@@ -1,8 +1,5 @@
 
-
-## To begin with
-
-We have a single idea: that we can take a materialist view of life, one in which we live and then die and there is nothing before and nothing afterwards; one that believes in oblivion; one in which the usual consolation for the fear of death is, "when death is, I am not"; and precisely by taking this view seriously argue ourselves into a radically different position. Our motivation is the question: "What is it like to be dead?" It is, to a non-theistic materialist, a nonsensical question. Death is oblivion, and that is unimaginable. To imagine a thing is to put yourself next to it, but there is no _you_ to put anywhere. And yet, we can find a perfectly explicable and easily understood answer, mere steps away. It is the same answer as that of the question, "What was it like to not yet be alive?" There is no oblivion after all.
+We have a simple idea: that we can take a materialist view of life, one in which we live and then die and there is nothing before and nothing afterwards; one that believes in oblivion; one in which the usual consolation for the fear of death is, "when death is, I am not"; and precisely by taking this view seriously argue ourselves into a radically different position. Our motivation is the question: "What is it like to be dead?" It is, to a non-theistic materialist, a nonsensical question. Death is oblivion, and that is unimaginable. To imagine a thing is to put yourself next to it, but there is no _you_ to put anywhere. And yet, we can find a perfectly explicable and easily understood answer, mere steps away. It is the same answer as that of the question, "What was it like to not yet be alive?" There is no oblivion after all.
 
 ## Defining our terms
 
