@@ -19,7 +19,7 @@ cat <<EOF
       <h1 style="color:#FFFFF4">Subjective <br> Immortality</h1>
       <p style="margin:20px; font-family: monospace; color: white;">W Harwood, <a href="mailto:harwood.will@gmail.com">harwood.will@gmail.com</a>
         <br>March, 2024. <i>Book coming, possibly</i>
-	<br>Organic content: no AI was used here
+	<br><b>Organic content</b>: no AI was used here
       </p>
     </div>
     <div class="c13"></div>
