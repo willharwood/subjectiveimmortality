@@ -5,7 +5,7 @@ We have a simple idea: that we can take a materialist view of life, one in which
 
 Let's call the "standard, materialistic, physicalist, non-theistic view of life" the _common-sense view_. There is nothing but the physical world. We exist for a span of time, ninety years or more if we are lucky, and then we die, and that is that. It is _common sense_ because we see that the body does not last forever so why should our consciousness, so manifestly supported by the body, continue to exist after the body has ceased to function? We are exactly our physical bodies, there is no ghost in the machine. We are special arrangements of matter; so special that we can think and feel and somewhat know ourselves, as partial and temporary perspectives on the universe.
 
-Notice that we have already conflated _life_ and _consciousness_. Most living things are never conscious. There are no conscious plants (what use is consciousness to a plant?); and no creature is continuously conscious, including ourselves. It is a semi-official tenet of the common-sense view that there is no reason in principle why a computer might not become conscious---which is not the same as the question of whether a computer could become intelligent, though as with life and consciousness, consciousness and intelligence are frequently conflated.
+Notice that we have already conflated _life_ and _consciousness_. Most living things are never conscious. There are no conscious plants (what use is consciousness to a plant?); and no creature is continuously conscious, including ourselves. It is a semi-official tenet of the common-sense view that there is no reason in principle why a computer might not become conscious, which is not the same as the question of whether a computer could become intelligent, though as with life and consciousness, consciousness and intelligence are frequently conflated.
 
 Consciousness is what counts. In the common sense view, consciousness is a fact of the physical universe, the Hard Question we might never answer. It is simply _true_ that certain very rare arrangements of matter are conscious and other arrangements are not.
 
@@ -20,7 +20,7 @@ The problem of death is the problem of non-existence. "Death is nothing to us," 
 This is not an obscure problem. The Roman philospher Lucretius, a later follower of Epicurus, put an argument into verse on why we should not be afraid:
 
 <p class="quote">
-     Look back---think how little you care
+     Look back -- think how little you care
      <br>For the endless ages of time
      <br>That passed, unknown, before your birth.
      <br>Nature holds a mirror for you
@@ -70,7 +70,7 @@ An objection: why should the future be infinite? And even if infinite, why shoul
 
 In three billion years there will be nothing alive on Earth. In 100 trillion years the last sun will be born. Spin forward far enough and only black holes will exist; further, and even they will fizz away. Wait longer, fabulously longer, and according to at least one theory of quantum mechanics, a new Big Bang will spontaneously occur.
 
-And if not? If the ultimate fate of the universe is an eternal Heat Death, in which all is the same temperature and no work (in the technical sense) can be done; in which nothing can happen and life is impossible, as life spends entropy and there is no entropy left. Even then, look closer. Temperature is a statistical fact, an average. Subatomic particles seathe and rearrange themselves even in a dead universe. Given enough time, any pattern will---very briefly---appear. Ludwig Boltzmann, some hundred and thirty years ago, proposed that our observable universe could have lurched into existence as a statistical quirk. Shuffle a deck of cards for long enough and you will shuffle it into its original order; whisk an egg for long enough and you could reform the yolk.
+And if not? If the ultimate fate of the universe is an eternal Heat Death, in which all is the same temperature and no work (in the technical sense) can be done; in which nothing can happen and life is impossible, as life spends entropy and there is no entropy left. Even then, look closer. Temperature is a statistical fact, an average. Subatomic particles seathe and rearrange themselves even in a dead universe. Given enough time, any pattern will -- very briefly -- appear. Ludwig Boltzmann, some hundred and thirty years ago, proposed that our observable universe could have lurched into existence as a statistical quirk. Shuffle a deck of cards for long enough and you will shuffle it into its original order; whisk an egg for long enough and you could reform the yolk.
 
 This idea was later lampooned as the "Boltzmann Brain": that, far more likely than the whole universe appearing on the flip of a coin, is that a single brain appears, with enough time to have a single thought (the thought you are thinking right now), before it falls apart, utterly untenable that its existence is. (As a mildly terrifying thought experiment, consider that if the Heat Death is the fate of our universe, then over its history there are vastly more Bolzmann Brains than real brains, each with time for a single thought or feeling before death. By basic probability, you are more likely to be a Boltzmann Brain at the end of the universe than a human brain at its start.)
 
@@ -78,7 +78,7 @@ For our purposes it does not matter whether the future is an endless succession 
 
 ## But is someone just like me also me?
 
-A more challenging objection: my twin is not me. Derek Parfit thoroughly explored this question---and did so by taking the transporters of Star Trek seriously. If I were transported as a beam of information to Mars, and reconstituted of new atoms there, would I be _me_, or merely a person who thinks he is me? Would my subjective experience be: thinking and feeling on Earth, standing on the transporter pad, then thinking and feeling on Mars; or would it be: thinking and feeling on Earth, standing on the transporter pad, then oblivion; while another entity has its own thoughts and feelings on Mars? Would the _subjective line_ begun on Earth continue on Mars, or would it break, and a new line start there?
+A more challenging objection: my twin is not me. Derek Parfit thoroughly explored this question -- and did so by taking the transporters of Star Trek seriously. If I were transported as a beam of information to Mars, and reconstituted of new atoms there, would I be _me_, or merely a person who thinks he is me? Would my subjective experience be: thinking and feeling on Earth, standing on the transporter pad, then thinking and feeling on Mars; or would it be: thinking and feeling on Earth, standing on the transporter pad, then oblivion; while another entity has its own thoughts and feelings on Mars? Would the _subjective line_ begun on Earth continue on Mars, or would it break, and a new line start there?
 
 Imagine the line does break, that the transported me is not me, that it is not a mode of transport but of death. Why might that be?
 
@@ -133,9 +133,9 @@ Two subjective lines   |\     ###     /|\ --&gt;
                                       /|
 </pre>
 
-To follow the logic of the common-sense view is to reject the second possibility. Whether I go to Mars by rocketship or transporter---whether I am composed of the same atoms or new ones---makes no difference to my subjective experience. To see why, imagine the converse, and try for a contradiction.
+To follow the logic of the common-sense view is to reject the second possibility. Whether I go to Mars by rocketship or transporter -- whether I am composed of the same atoms or new ones -- makes no difference to my subjective experience. To see why, imagine the converse, and try for a contradiction.
 
-Remember, we have said that the two versions of me---one having arrived on Mars via a rocketship, the other by transporter---are identical. No physical test can tell them apart, even at the atomic level. But we have also argued that they are different: one's subjective line goes back to Earth, the other's began on Mars. One is _me_, the other is someone new, who is merely identical to me. _Where is the difference kept_?
+Remember, we have said that the two versions of me -- one having arrived on Mars via a rocketship, the other by transporter -- are identical. No physical test can tell them apart, even at the atomic level. But we have also argued that they are different: one's subjective line goes back to Earth, the other's began on Mars. One is _me_, the other is someone new, who is merely identical to me. _Where is the difference kept_?
 
 In the common-sense view, there is only the physical world, and physically the two versions of me are identical. They cannot be both different (one _me_, the other a being who merely thinks he is me), and identical (in the sense that no physical test can tell them apart).
 
@@ -157,7 +157,7 @@ This is subjective immortality: one experience after another, forever.
 
 We equate a person's consciousness with a physical pattern. But consciousness is, fundamentally, a phenomenon of change. To perceive a thing is to change and be changed by it.
 
-In the _Vacations to Mars_ thought experiment, we need the two versions of me---the one who came by rocketship, the other who was beamed to Mars---to be identical for the argument to work. We claim that since one version (who came by rocketship) undoubtedly continues my subjective line, the other (beamed by science fiction) must do so too, otherwise they could not be physically identical.
+In the _Vacations to Mars_ thought experiment, we need the two versions of me -- the one who came by rocketship, the other who was beamed to Mars -- to be identical for the argument to work. We claim that since one version (who came by rocketship) undoubtedly continues my subjective line, the other (beamed by science fiction) must do so too, otherwise they could not be physically identical.
 
 What, though, is this "subjective line", or "subjective continuity"? You are conscious in this moment; in the following moment you are also conscious. You anticipate future pleasures and pains because you believe that it will be _you_ experiencing them. Belief is too weak a word here: personal continuity is fundamental to the workings of our intelligence. We plan for we are planning for ourselves.
 
@@ -202,10 +202,10 @@ _Or, There is no such thing as the subjective line. A thorough contradiction of_
 The common-sense view brings us to two plausible conclusions:
 
 <ol>
-<li><strong>Subjective transience.</strong> That experience is a momentary and singular phenomenon. Our actual subjective experience is to have a single experience, then disappear. (We could call this our “objective subjective experience”---a warning to the author of the importance of keeping things clear.) The life of a person is like a film: a collection of frames, apparently related, in fact quite separate. Oblivion is not the end of life; it is the end of every scintila of experience. Subjective points that only from a distance make a continuous line.
+<li><strong>Subjective transience.</strong> That experience is a momentary and singular phenomenon. Our actual subjective experience is to have a single experience, then disappear. (We could call this our “objective subjective experience”, a warning to the author of the importance of keeping things clear.) The life of a person is like a film: a collection of frames, apparently related, in fact quite separate. Oblivion is not the end of life; it is the end of every scintila of experience. Subjective points that only from a distance make a continuous line.
 <li><strong>Subjective immortality.</strong> That experience continues for as long as experience exists, which is forever. Experience is always of a particular body, but it is not tethered to it. To paraphrase Emile Zola: subjective experience is a corner of creation seen through a body. If we are any experience, then we are all experience.
 </ol>
 
 So we have either transience or immortality. Either there is just one experience, or if there is more than one experience, there is no justification for there not being an infinite number. While we come round to subjective immortality again, it is no longer as a form of personal continuity. Experience is, and we are not separate from it.
 
-We are the part of the universe that is experience---whatever, wherever and whenever that happens to be.
+We are the part of the universe that is experience -- whatever, wherever and whenever that happens to be.
