@@ -1,23 +1,6 @@
+## Three quotations to set the scene
 
-We have a simple idea: that we can take a materialist view of life, one in which we live and then die and there is nothing before and nothing afterwards; one that believes in oblivion; one in which the usual consolation for the fear of death is, "when death is, I am not"; and precisely by taking this view seriously argue ourselves into a radically different position. Our motivation is the question: "What is it like to be dead?" It is, to a non-theistic materialist, a nonsensical question. Death is oblivion, and that is unimaginable. To imagine a thing is to put yourself next to it, but there is no _you_ to put anywhere. And yet, we can find a perfectly explicable and easily understood answer, mere steps away. It is the same answer as that of the question, "What was it like to not yet be alive?" There is no oblivion after all.
-
-## Defining our terms
-
-Let's call the "standard, materialistic, physicalist, non-theistic view of life" the _common-sense view_. There is nothing but the physical world. We exist for a span of time, ninety years or more if we are lucky, and then we die, and that is that. It is _common sense_ because we see that the body does not last forever so why should our consciousness, so manifestly supported by the body, continue to exist after the body has ceased to function? We are exactly our physical bodies, there is no ghost in the machine. We are special arrangements of matter; so special that we can think and feel and somewhat know ourselves, as partial and temporary perspectives on the universe.
-
-Notice that we have already conflated _life_ and _consciousness_. Most living things are never conscious. There are no conscious plants (what use is consciousness to a plant?); and no creature is continuously conscious, including ourselves. It is a semi-official tenet of the common-sense view that there is no reason in principle why a computer might not become conscious, which is not the same as the question of whether a computer could become intelligent, though as with life and consciousness, consciousness and intelligence are frequently conflated.
-
-Consciousness is what counts. In the common sense view, consciousness is a fact of the physical universe, the Hard Question we might never answer. It is simply _true_ that certain very rare arrangements of matter are conscious and other arrangements are not.
-
-## A note on continuity
-
-We say, "no creature is continuously conscious", but we should clarify this to mean: _to an observer_, no creature is continuously conscious. Because what is the subjective experience of that creature (say, you)? It is to be continuously conscious, simply because, of course, we do not experience unconsciousness. Dreamless sleep, like general anaesthetic, passes immediately. Subjectively, we are always conscious, an unbroken line from our first (conscious) moment to our last.
-
-## Thinking about the problem of death
-
-The problem of death is the problem of non-existence. "Death is nothing to us," said Epicurus, who died two thousand three hundred years ago. "When we are, death is not; and when death is, we are not." It is an idea that makes the common-sense view bearable. Death as an absence. There is no experience as there is nothing to have the experience. Yet that gives, in Larkin's words, "a special way of being afraid". Because it is terrifying to contemplate. Not that something bad will happen to you after you die; not even that nothing will happen to you. But that there is no you. Metaphors betray us: to say that you will leave the world suggests that you will go somewhere else, but there is no you, and no leaving, as _to leave_ is a verb and verbs require a subject.
-
-This is not an obscure problem. The Roman philospher Lucretius, a later follower of Epicurus, put an argument into verse on why we should not be afraid:
+Lucretius wrote _De rerum Natura_ in the first century BC. It is a poetic explication and exploration of Epicurian philosophy, and contains a wonderful argument against the fear of death, of our own personal extinction:
 
 <p class="quote">
      Look back -- think how little you care
@@ -31,26 +14,7 @@ This is not an obscure problem. The Roman philospher Lucretius, a later follower
      <br>Death is a greater peace than sleep.
 </p>
 
-You did not exist 100 years ago, and it has never bothered you. You will not exist 100 years in the future, and that bothers you greatly. But do you see the symmetry, that two situations are the same?
-
-## A telling digression on why Lucretius' argument does not satisfy
-
-This book is motivated by the problem of what it is like to be dead. The common sense view leaves us with something unimaginable: oblivion, no thoughts or feelings as nothing exists to think or feel. Lucretius attempts to assuage our anxiety about this fact by pointing out that we have been there before. Non-existence is non-existence, whether in the past or the future. It contains a subtle contradiction though. Because in fact we have not been there before. We did not exist in the distant past, we were not there in any sense. In the past, we never existed; in the future, we will have existed. Time's Arrow, not grammatical pedantry. What was it like to _not exist_ in the past? We know the answer to that: _it was like immediately becoming conscious in the present_. That is what it was like. Time begins with us.
-
-Imagine a person who will be born in a trillion years. What is it like for them now, in the present, on the other side of Lucretius' mirror? It is not glib but merely true to say that what it is like is _a trillion years immediately passes_. The question, "what is it like to _not yet_ be conscious" is readily answerable: immediate consciousness. It is the other side, "what is it like to never again be conscious" that is hard. It is our question to answer.
-
-## A naïve answer
-
-Lucretius gives us two questions:
-
-<ol>
-     <li>What was it like to not exist in the past?
-     <li>What will it be like to not exist in the future?
-</ol>
-
-To him, both questions are the same question and have the same answer: oblivion. We have already argued that the first question has a quite different answer though. What was it like? Not oblivion, but immediate consciousness. What if that were the answer to the second question too? What if they have the same answer after all, only it is not the oblivion that the common-sense view assumes?
-
-Almost five hundred years ago, in his own copy of Lucretius, Michel de Montaigne noted:
+_De rerum natura_ was lost for over a thousand years, then helped kindle the Renaissance. Michel de Montaigne was deeply influenced by it, and wrote in his copy:
 
 <p class="quote">
      As there are varied movements of atoms,
@@ -60,21 +24,65 @@ Almost five hundred years ago, in his own copy of Lucretius, Michel de Montaigne
      is born.
 </p>
 
-It is an astonishing comment for the age, and offers the first answer to our question. In the common-sense view, there is just matter and its arrangement, no extra super-natural substance. If a person _is_ a certain arrangement of matter, and that person dies, then given enough time, or a large enough universe, then purely by chance that pattern of matter will inevitably reappear. Perhaps immediately, perhaps after many trillions of years. And if not trillions of years then quadrillions, quintillions: eventually. And if it is inevitable that whatever pattern that makes the person will reform, then in that moment the person returns. And we have our answer: _not existing in the future_ is the same as _not existing in the past_. In both cases, what it is like is: you are immediately conscious.
+Almost a hundred years later, David Hume wrote in his _Treasise of Human Nature_:
 
-This is what it is like to be dead: you are not dead any more.
+<p class="quote">
+     [W]hen I enter most intimately into what I call myself,
+     I always stumble on some particular perception or other,
+     of heat or cold, light or shade, love or hatred, pain
+     or pleasure. I never can catch myself at any time without
+     a perception, and never can observe any thing but the
+     perception. When my perceptions are removed for any time,
+     as by sound sleep; so long am I insensible of myself,
+     and may truly be said not to exist.
+</p>
 
-## But what if the future is finite, or infinite but empty?
+The sceptical, atheistic intellectual tradition of Hume, Montaigne, and Lucretius is alive in the modern scientific, physicalist view of the universe. Let's call it the _common-sense view_, that there is only the physical world. If life is like Bede's sparrow flying through a lighted hall, then nothing exists _but_ that hall. It is _common sense_ because we know that the body does not last forever so why should our consciousness, so manifestly supported by the body, continue to exist after the body has ceased to function? We are exactly our physical bodies, there is no separate mind-stuff or lurking ghost. We are special arrangements of matter, so special that we can think and feel and somewhat know ourselves, as partial and temporary perspectives on the universe. An endless age of time passed before we existed, and an infinity will pass after we have gone.
 
-An objection: why should the future be infinite? And even if infinite, why should patterns continue to form? Space is expanding, the universe thins and cools, everything is moving away from everything else. Picture a little host of particles coming together to make a shape, then flying off in different directions, forever. The longer we wait, the further away that pattern will be.
+## Arguing against oblivion
 
-In three billion years there will be nothing alive on Earth. In 100 trillion years the last sun will be born. Spin forward far enough and only black holes will exist; further, and even they will fizz away. Wait longer, fabulously longer, and according to at least one theory of quantum mechanics, a new Big Bang will spontaneously occur.
+Implicit in the common-sense view is a belief in oblivion. It is impossible to imagine _not existing_: to imagine a thing is to picture yourself next to it, and yet there is no self to picture anywhere. A "special way to be afraid", as WH Auden has it, which religion's "vast moth-eaten brocade" tried to dispel. But we will stay with the common-sense view, and use it to vanquish oblivion in a quite surprising way.
+
+Because by taking seriously and consistently the common-sense view, we will argue that there is no oblivion; that while objectively surely every body dies, subjectively we are eternal. This is <b>subjective immortality.</b>
+
+## Lucretius' questions
+
+Lucretius gives us two questions:
+
+<ol>
+     <li>What was it like to not exist in the past?
+     <li>What will it be like to not exist in the future?
+</ol>
+
+He considers that both questions are the same question and have the same answer:
+
+<ol>
+     <li>What was it like to not exist in the past? <b>Oblivion</b>.
+     <li>What will it be like to not exist in the future? <b>Oblivion</b>.
+</ol>
+
+But we want an argument against oblivion. Consider the first question, and ask: what was it _like_, for you, a million years ago? Of course it was like nothing. And yet, your subjective experience was _a million years immediately passed, and you became conscious for the first time_. Consider the second question, which is another way of asking "what is it like to be dead?" Recall Michel de Montaigne's note, of chance forming another de Montaigne (of atoms eventually becoming a mountain). If we are just our physical beings, then consciousness simply is a certain arrangement of atoms. In a universe that is infinitely wide or lasts infinitely long, every pattern will reappear, and with it (since there is nothing _but_ the pattern) that consciousness will reappear too. You die, and the pattern of your consciousness is lost. Wait long enough, and by pure random motion, whatever arrangement is needed to be _you_ will form, somewhere in the universe. The distance of time or space is immaterial, as nothing is _travelling_, nothing exists until, of a sudden, it does.
+
+This gives us an answer to the second question, and it is the same answer as to the first:
+
+<ol>
+     <li>What was it like to not exist in the past? <b>Immediate subjective experience</b>.
+     <li>What will it be like to not exist in the future? <b>Immediate subjective experience</b>.
+</ol>
+
+_Not existing in the future_ is the same as _not existing in the past_. In both cases, what it is like is: you are immediately conscious.
+
+## What is the future is not infinite, or is infinitely boring?
+
+Why should the future be infinite? Or even if infinite, why should patterns continue to form? Space is expanding, the universe thins and cools, everything is moving away from everything else. Picture a little host of particles coming together to make a shape, then flying off in different directions, forever. The longer we wait, the further away that pattern will be.
+
+In three billion years there will be nothing alive on Earth. In 100 trillion years the last sun will be born. Spin forward far enough and only black holes will exist; further, and even they will fizz away. But wait longer, fabulously longer, and according to at least one theory of quantum mechanics, a new Big Bang will spontaneously occur.
 
 And if not? If the ultimate fate of the universe is an eternal Heat Death, in which all is the same temperature and no work (in the technical sense) can be done; in which nothing can happen and life is impossible, as life spends entropy and there is no entropy left. Even then, look closer. Temperature is a statistical fact, an average. Subatomic particles seathe and rearrange themselves even in a dead universe. Given enough time, any pattern will -- very briefly -- appear. Ludwig Boltzmann, some hundred and thirty years ago, proposed that our observable universe could have lurched into existence as a statistical quirk. Shuffle a deck of cards for long enough and you will shuffle it into its original order; whisk an egg for long enough and you could reform the yolk.
 
 This idea was later lampooned as the "Boltzmann Brain": that, far more likely than the whole universe appearing on the flip of a coin, is that a single brain appears, with enough time to have a single thought (the thought you are thinking right now), before it falls apart, utterly untenable that its existence is. (As a mildly terrifying thought experiment, consider that if the Heat Death is the fate of our universe, then over its history there are vastly more Bolzmann Brains than real brains, each with time for a single thought or feeling before death. By basic probability, you are more likely to be a Boltzmann Brain at the end of the universe than a human brain at its start.)
 
-For our purposes it does not matter whether the future is an endless succession of Big Bangs, or an eternal void in which every ten-to-the-ten-to-the-fifty years or so a Boltzmann Brain appears, imagines it is reading a book, then dies. We just need something rather than nothing, and we need it forever.
+For our purposes it does not matter whether the future is an endless succession of Big Bangs, or an eternal void in which every ten-to-the-ten-to-the-fifty years or so a Boltzmann Brain appears, imagines it is reading a website, then dies. We just need something rather than nothing, and we need it forever.
 
 ## But is someone just like me also me?
 
@@ -89,7 +97,7 @@ Imagine the line does break, that the transported me is not me, that it is not a
         have more experiences.
 </ol>
 
-Here we can say: there are people who have died and then been revived. Or consider: you are an astronaut, and after some catastrophe you are suddenly cooled to minus 270 degrees. You are certainly not alive. The freezing is so sudden though that when, 100 years later, your body is recovered, it is possible to reheat you with minimal damage, and bring you back to life. What would your subjective experience be? It is not difficult to believe that it is _you_ who is revived, not merely someone who thinks they are you.
+Here we can say: there are people who have died and then been revived. Or consider: you are an astronaut, and after some catastrophe you are suddenly cooled to a fraction above zero Kelvin. You are certainly not alive. The freezing is so sudden though that when, 100 years later, your body is recovered, it is possible to reheat you with minimal damage, and bring you back to life. What would your subjective experience be? It is not difficult to believe that it is _you_ who is revived, not merely someone who thinks they are you.
 
 <ol start="2">
      <li> <strong>Matter matters.</strong>
@@ -143,13 +151,13 @@ In the common-sense view, there is only the physical world, and physically the t
 
 An objection: the two identical versions of me on Mars are, of course, different. One travelled there by rocketship, the other was transported there as a beam of information. They have different pasts, even if they are physically indistinguishable in the present. Why does the same logic not follow for whether one is and the other is not the continuation of my subjective line?
 
-We lean on the common-sense view, and common-sensical assumptions on our continuity of consciousness, and say: in the past, the two bodies _were_ different, the historical difference was represented by a physical difference (one body carried through space, the other beamed through it); consciousness though is a difference _happening now_. It is not a historical fact but a present one. Either _I_ am or _I_ am not conscious. That is a difference in the present, and so by our physicalist assumptions, must be reflected somehow in the present physical state too.
+We lean on the common-sense view, and common-sensical assumptions on our continuity of consciousness, and say: in the past, the two bodies _were_ different, the historical difference was represented by a physical difference (one body carried through space, the other beamed through it); consciousness though is a difference _happening now_. It is not a historical fact but a present one. Either _I_ am or _I_ am not conscious. That is a difference in the present, and so by our physicalist assumptions, must be reflected somehow in the present physical state.
 
 We come to the conclusion that either the common-sense view is wrong, or _matter does not matter_. That it is the pattern that counts, and even if you were turned to information and reconstituted two hundred million kilometres away, it would still be you, and you in the sense that your real, subjective experience of being beamed to Mars is not oblivion, but waking up on Mars.
 
-## Where we have got to: subjective immortality
+## Subjective immortality
 
-We began with the common-sense view. A physicalist, un-supernatural set of assumptions of what existence is. There are mysteries, to be sure. How can certain arrangements of atoms think and feel? And there is an assumption that our conscious life is finite, that our subjective experience ends and nothing follows it. We have probed this idea by considering two questions: what is it like to not yet be alive, and what is it like to be dead. Or rather: what is it like to _not yet be conscious_, and what is it like to _never again be conscious_. It is easy to answer the first question. What it is like is that you are immediately conscious. After all, there is no _like_ until you are conscious, and no sense of time until you are conscious. To the second question, the inspiration of "vast most-eaten musical brocades", we groped towards an answer. What if the question itself is ill-formed? What if there is always a future in which you are conscious? That it will never be true that you will never again be conscious? If that were so, then the two questions collapse into one. What is it like to be dead? You are conscious again. We used the common-sense view to justify, or at least make plausible, our hypothesis. We argued that the _pattern_ and only the pattern is important, and that any pattern will inevitably recur.
+We began with the common-sense view. A physicalist, un-supernatural set of assumptions of what existence is. There are mysteries, to be sure. How can certain arrangements of atoms think and feel? And there is an assumption that our conscious life is finite, that our subjective experience ends and nothing follows it. We have probed this idea by considering two questions: what is it like to not yet be alive, and what is it like to be dead. Or rather: what is it like to _not yet be conscious_, and what is it like to _never again be conscious_. It is easy to answer the first question. What it is like is that you are immediately conscious. After all, there is no _like_ until you are conscious, and no sense of time until you are conscious. To the second question, we groped towards an answer. What if the question itself is ill-formed? What if there is always a future in which you are conscious? That it will never be true that you will never again be conscious? If that were so, then the two questions collapse into one. What is it like to be dead? You are conscious again. We used the common-sense view to justify, or at least make plausible, our hypothesis. We argued that the _pattern_ and only the pattern is important, and that any pattern will inevitably recur.
 
 This is subjective immortality: one experience after another, forever.
 
@@ -159,7 +167,7 @@ We equate a person's consciousness with a physical pattern. But consciousness is
 
 In the _Vacations to Mars_ thought experiment, we need the two versions of me -- the one who came by rocketship, the other who was beamed to Mars -- to be identical for the argument to work. We claim that since one version (who came by rocketship) undoubtedly continues my subjective line, the other (beamed by science fiction) must do so too, otherwise they could not be physically identical.
 
-What, though, is this "subjective line", or "subjective continuity"? You are conscious in this moment; in the following moment you are also conscious. You anticipate future pleasures and pains because you believe that it will be _you_ experiencing them. Belief is too weak a word here: personal continuity is fundamental to the workings of our intelligence. We plan for we are planning for ourselves.
+What, though, is this "subjective line", or "subjective continuity"? You are conscious in this moment; in the following moment you are also conscious. You anticipate future pleasures and pains because you believe that it will be _you_ experiencing them. Belief is too weak a word here; personal continuity is fundamental to the workings of our intelligence. We plan for we are planning for ourselves.
 
 Yet what, exactly, is being carried forward? If we remove the supernatural, we are left with atoms in patterns that change one moment to the next, and must change if any experience is to be had.
 
@@ -178,20 +186,7 @@ By nature, we see ourselves on the road, taking steps into the future. The commo
 
 ## The bundled view
 
-David Hume writes:
-
-    <code>
-      [W]hen I enter most intimately into what I call myself,
-      I always stumble on some particular perception or other,
-      of heat or cold, light or shade, love or hatred, pain
-      or pleasure. I never can catch myself at any time without
-      a perception, and never can observe any thing but the
-      perception. When my perceptions are removed for any time,
-      as by sound sleep; so long am I insensible of myself,
-      and may truly be said not to exist.
-    </code>
-
-In Reasons and Persons, Parfit builds a moral edifice from Hume's bundle theory of identity. Consider that we are nothing but bundles of impressions, with no unchanging core. You are just as different from a future version of yourself as you are from the present version of someone else, and have the same moral obligation to them. This raises the disturbing idea that not only might there not be subjective immortality, there might not even be subjective continuity. You might not be you one minute to the next. While you are here right now, it could be some different person looking out of your eyes next week.
+Recall Hume, above, "I never can catch myself at any time without a perception". In Reasons and Persons, Parfit builds a moral edifice from Hume's bundle theory of identity. Consider that we are nothing but bundles of impressions, with no unchanging core. You are just as different from a future version of yourself as you are from the present version of someone else, and have the same moral obligation to them. This raises the disturbing idea that not only might there not be subjective immortality, there might not even be subjective continuity. You might not be you one minute to the next. While you are here right now, it could be some different person looking out of your eyes next week.
 
 (Perhaps this should not be so surprising. Over short timeframes we certainly believe in subjective continuity; over longer timeframes that is less clear. Which young person really believes that they will become old?)
 
@@ -202,7 +197,7 @@ _Or, There is no such thing as the subjective line. A thorough contradiction of_
 The common-sense view brings us to two plausible conclusions:
 
 <ol>
-<li><strong>Subjective transience.</strong> That experience is a momentary and singular phenomenon. Our actual subjective experience is to have a single experience, then disappear. (We could call this our “objective subjective experience”, a warning to the author of the importance of keeping things clear.) The life of a person is like a film: a collection of frames, apparently related, in fact quite separate. Oblivion is not the end of life; it is the end of every scintila of experience. Subjective points that only from a distance make a continuous line.
+<li><strong>Subjective transience.</strong> That experience is a momentary and singular phenomenon. Our actual subjective experience is to have a single experience, then disappear. (We could call this our “objective subjective experience”, a warning to the author of the importance of keeping things clear.) The life of a person is like a film: a collection of frames, apparently related, in fact quite separate. Oblivion is not the end of life; it is the end of every scintila of experience, subjective points that only from a distance make a continuous line.
 <li><strong>Subjective immortality.</strong> That experience continues for as long as experience exists, which is forever. Experience is always of a particular body, but it is not tethered to it. To paraphrase Emile Zola: subjective experience is a corner of creation seen through a body. If we are any experience, then we are all experience.
 </ol>
 
