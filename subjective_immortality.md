@@ -204,3 +204,7 @@ The common-sense view brings us to two plausible conclusions:
 So we have either transience or immortality. Either there is just one experience, or if there is more than one experience, there is no justification for there not being an infinite number. While we come round to subjective immortality again, it is no longer as a form of personal continuity. Experience is, and we are not separate from it.
 
 We are the part of the universe that is experience -- whatever, wherever and whenever that happens to be.
+
+# The book
+
+This site <a href="https://subjectiveimmortality.com">Subjective Immortality</a> sketches the idea that a physicalist, "common-sense" view of the universe contains within it, surprisingly, the implication that we are in the only way that really matters, immortal. _Subjective_ immortality is the term I use. It is only a sketch though, and too many objections are waved away or not even considered. And the Bundled Dichotomy, which is I think the most interesting (and original!) idea, is placed almost as an after-thought. _This is what books are for_.
