@@ -28,7 +28,7 @@ What is subjective immortality? A sketch of the naive proof ("recurring patterns
 
 Epicurus, Lucretius; de Montaigne; Hume; Nietzsche; Parfit.
 
-Argue that past ideas of subjective immortality are really the same idea, from de Montaigne's parenthetical wondering about atoms reforming into himself, to Nietzsche's Eternal Return, and mathematically represented by Poincaré's Recurrence Theorem. The Buddhism concept of anatta ("no self") is the second thread we need to pick up and trace.
+Argue that past ideas of subjective immortality are really the same idea, from Epicurus' atoms wandering through infinity, and de Montaigne's parenthetical wondering about atoms reforming into himself, to Nietzsche's Eternal Return, and mathematically represented by Poincaré's Recurrence Theorem. The Buddhism concept of anatta ("no self") is the second thread we need to pick up and trace.
 
 ### Transporter arguments
 
