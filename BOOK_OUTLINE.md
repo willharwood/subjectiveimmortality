@@ -8,8 +8,8 @@ https://subjectiveimmortality.com sketches the idea that a physicalist, "common-
 * This is certainly true in an objective sense. No body lives forever. Oblivion?
 * What if we consider this materialist, physicalist view more seriously though: we are nothing but atoms.
 * An exact enough copy of me _is_ me. If there is no extra-physical stuff, then there is no where for a real difference like consciousness to hide.
-* We arrive at a (naive) argument for a sort of immortality. A subjective immortality: you are some pattern, and inevitably that pattern will return.
-* There is something Buddhist in this view, of the impossibility of escaping creation. Compare the concept of Anattā, "non-self". We have arrived at it purely through taking physicalism seriously.
+* We arrive at a (naive) argument for a sort of immortality. A subjective immortality: you are some pattern, and inevitably that pattern will return.*
+ There is something Buddhist in this view, of the impossibility of escaping creation. Compare the concept of Anattā, "non-self". We have arrived at it purely through taking physicalism seriously.
 * Implicit in the idea of "subjective continuity" is an idea of a self though, we find it very difficult to escape from that.
 * There are very good reasons why it _should_ be difficult to do so, we are intelligent so we can plan for the future, a future in which we must believe we still exist. (But it is our germ-line, not us, per se...)
 * Link Anattā, Hume, and Parfit, you change one moment to the next, _there is no real continuity_.
@@ -26,7 +26,9 @@ What is subjective immortality? A sketch of the naive proof ("recurring patterns
 
 ### History
 
-Epicurus, Lucretius; de Montaigne; Hume; Parfit.
+Epicurus, Lucretius; de Montaigne; Hume; Nietzsche; Parfit.
+
+Argue that past ideas of subjective immortality are really the same idea, from de Montaigne's parenthetical wondering about atoms reforming into himself, to Nietzsche's Eternal Return, and mathematically represented by Poincaré's Recurrence Theorem. The Buddhism concept of anatta ("no self") is the second thread we need to pick up and trace.
 
 ### Transporter arguments
 
