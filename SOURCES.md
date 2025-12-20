@@ -3,8 +3,11 @@
 * Nietzsche, Endless Recurrence theory (ewige Wiederkehr). Introduced as a thought experiment in the Gay Science.
   In Thus Spake Zarathustra the protagonist must get over his horror of eternal return.
 * Poincare recurrence theorem
+* Hume: Philo against Epicurus
 
-# Lucretius, John Godwin, 2004
+# Some notes on books and papers, to grow
+
+## Lucretius, John Godwin, 2004
 
 Aimed at the general reader. De rerum natura.
 
@@ -37,7 +40,7 @@ Substantially the same as the first part of my thesis? As in, a pattern must rec
 
 The idea is how to solve the "two particles flying away from each other, forever" problem. _If_ the past is infinite, then that problem must not occur, otherwise there would be nothing, already, in the present.
 
-# The Inverse Gambler's Fallacy: The Argument from Design. The Anthropic Principle Applied to Wheeler Universes. By Ian Hacking.
+## The Inverse Gambler's Fallacy: The Argument from Design. The Anthropic Principle Applied to Wheeler Universes. By Ian Hacking.
 
 Problem: the univere seems fine-tuned for life. Usual solution: well of course it is, or we wouldn't be here to ask the question. There might have been an endless parade of tries at universes which weren't so finely tuned, and now, by chance, one turns up which in which we _can_ exist. And this sequence of universes could have been created randomly, not by some conscious creator god. Rolls of the dice.
 
@@ -47,4 +50,37 @@ Inverse gambler's fallacy: someone rolls a six. The gambler then _assumes_ that 
 Is that a real objection to the argument though? True, the fact that the universee _is_ finely tuned does not itself imply that there must have been a succession of previous less finely tuned versions. But that there was that succession does explain it.
 
 Note to follow-up: Hume's Philo, Part VIII of Dialogues Concerning Natural Religion, denying the Epicurean hypothesis of endless atoms wandering through endless space and time.
+
+## Bumps on the Road to Here (from Eternity). By Eric Winsberg.
+
+Boltzmann's suggestion _both_ that the universe as a whole is in thermal equilibrium (heat death), and there really is no direction of time. And that this does not preclude local regions (say, a region the size of the observable universe) experiencing a fluctuation in which entropy will decrease, and an apparent arrow of time will appear. Entropy returning to average _is_ the arrow of time. And all of this continues "forever" (for whatever "forever" means when time is a local and spasmodic phenonenon).
+
+I have some sympathy with this picture of reality.
+
+## Recurrence Theorems: A unified account. By David Wallace
+
+Poincare recurrence theorem.
+
+## The possibility of resurrection. By Peter van Inwagen.
+
+"Mavrodes, as a youth, is identical with Mavrodes, in middle age."
+
+Attempts to argue against a person being re-created in the future is identical with the person in the present, through considering whether Christian bodily resurrection is feasible, even for God.
+
+Generally I think his argument boils down to: look at the atoms in your body now. They are there _because you have lived up until this moment_, that's why this iron atom is at the centre of this haemoglobin protein, this is a whole history and purpose to it. Say in the future God collects the exact atoms of which you were composed and reforms you from them, in the exact positions they were in. Now, you have a person who looks identical, who would feel identical too; yet they are not. Their atoms are not there because of _life_, they are there because they were put there. The puspose is missing.
+
+He uses the analogy of a book penned by Augustine, which is then burned. Even if the atoms of the burned manuscript were collected together and used to create an exact copy of the manuscript, it would still be a copy. The atoms would not be in their positions because Augustine put them there in the process of writing; they would be put there because a scientist put them there. (Albeit, a scientist who put them there _because_ Augustine put them there.)
+
+# Some random arguments
+
+The first cause argument has two versions. One through history, one in the present.
+
+The historical first cause, time t+1 is created by time t. What happened at t=0? (Creator needed at that time; needed no longer after it.)
+    What if the past is infinite. How did time ever reach the present..?
+
+The present argument: my hand is supported by my arm, which is supported by my shoulder, my body, the chair, the earth, etc. Doesn't this chain of support require a _current_ first support? Doesn't it, unlike the historical first cause above, require a first-supporter to still exist?
+    Gridlock! Da Vinci's self-supporting bridge.
+    If the chair were to disappear, my arm would not fall immediately. My body would fall first. There would be a delay.
+    If the sun were to disappear no one would notice for over eight minutes!
+
 
