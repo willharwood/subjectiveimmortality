@@ -71,7 +71,45 @@ Generally I think his argument boils down to: look at the atoms in your body now
 
 He uses the analogy of a book penned by Augustine, which is then burned. Even if the atoms of the burned manuscript were collected together and used to create an exact copy of the manuscript, it would still be a copy. The atoms would not be in their positions because Augustine put them there in the process of writing; they would be put there because a scientist put them there. (Albeit, a scientist who put them there _because_ Augustine put them there.)
 
+## Time and personal itentity in Nietzsche's Theory of Eternal Recurrence. By Scott Jenkins
+
+Expressed most clearly in the Gay Science. A demon says: you will repeat your life forever, with no variation. Is your response horror, or delight? "The heaviest weight".
+
+In Ecce Homo, Nietzsche traces eternal recurrence to Heraclitus: an infinitely repeating cycle Heraclitus called The Great Year.
+
+From Zarathustra: "There is a great year of becoming, a monster of a great year, which must, like an hour glass, turn over and over again. All these years are alike in what is greatest and what is smallest."
+
+Nietzsche: the world is a "musical mechanism [that] repeats eternally its tune, which must never be called a melody."
+
+Other ancient sources: Empedocles (c. 494 – c. 434 BC, fl. 444–443 BC; source of the four elements, added love and strife; Lucretius is a fan; comic potential in his death in Mount Etna) postulated cosmic cycles. Pythagoras (c. 570 – c. 495 BC, almost overlaps with Empedocles): a doctrine of cosmological recurrence.
+
+Arthur Danto: you can't prove empirically    you're in an eternal recurrence, as that would be a way to distinguish it from other recurrences, which is a contradiction. Paul Loeb points out that you coould just make the discovery in _every_ cycle.
+
+## Being No One. By Thomas Metzinger.
+
+Psm phenomenal self model
+Pmir phenomenal model of the intentionality relation
+
+Distinct theoretical entities, the conceptual link between first and third person approaches to the conscious mind. 
+
+What makes a nonperson a person is a special sort of psm plus a pmir: having a transparent self model, plus a conscious model of the arrow of intentionality. 
+
+Qualia don't exist
+
+Vehicle/content distinction is useful, dangerously close to Cartesian dualism though. (Me: to think of the “experiencer and the experience” is a trap.)
+
+Bretano, intentionale inexistenz.
+
+Phenomenal content is what stays the same irrespective of whether something is representation or misrepresentation. (If I am mistaken in my subjective experience, I am no less having a subjective experience; we are conscious in dreams). 
+
+
 # Some random arguments
+
+## The experience and the experiencer
+
+*This* is the central conceptual mistake. There are not two entities, any more than we can be separate from that which we are. 
+
+## Two sorts of first-cause
 
 The first cause argument has two versions. One through history, one in the present.
 
@@ -81,6 +119,6 @@ The historical first cause, time t+1 is created by time t. What happened at t=0?
 The present argument: my hand is supported by my arm, which is supported by my shoulder, my body, the chair, the earth, etc. Doesn't this chain of support require a _current_ first support? Doesn't it, unlike the historical first cause above, require a first-supporter to still exist?
     Gridlock! Da Vinci's self-supporting bridge.
     If the chair were to disappear, my arm would not fall immediately. My body would fall first. There would be a delay.
-    If the sun were to disappear no one would notice for over eight minutes!
+    If the sun were to disappear no one would notice for over eight minutes.
 
 
