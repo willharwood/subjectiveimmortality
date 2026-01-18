@@ -102,6 +102,41 @@ Bretano, intentionale inexistenz.
 
 Phenomenal content is what stays the same irrespective of whether something is representation or misrepresentation. (If I am mistaken in my subjective experience, I am no less having a subjective experience; we are conscious in dreams). 
 
+## The Repugnant Conclusion, 
+https://plato.stanford.edu/entries/repugnant-conclusion/
+
+On the Repugnant Conclusion: https://plato.stanford.edu/entries/repugnant-conclusion/
+
+Repugnant Conclusion: start with a population A, each of whose well-being is strong (value = a).
+Expand the population to A+. The extra people still have positive well-being, a', though a' < a. I.e. you've added a group of people who're slightly worse off but still not terribly off to your population. Since they all have lives worth living, we would generally say that A+ is better than A: the total amount of good in the world is increased. But consider a population B. This is the same size as A+, and its people are all happier than the less happy people in A, though not quite as happy as the happiest in A. Their happiness b is a < b < a'. Is B preferable to A? I think we might say yes. Here's the problem though: we can move to B+, and then C+, and then D+. At each step, the population gets larger, and less happy, yet we can apply the same argument to say: this is better. By the time we get to Z+ we have a truly enormous population of mostly quite sad people. This is not better.
+
+Total value utilitarianism.
+
+What of average value utilitarianism? It creates the opposite problem. E.g. a world in which there is one person whose life is excellent is better than a world in which there are a billion people whose lives are merely very good. Various more sophisticated systems have been proposed, for example Variable Value, where adding extra lives has exponentially diminishing returns (as a way to stop the A+ to B+ to C+... trick from working). 
+
+Parfit tried to solve this problem, come up with a theory X, in Reasons and Persons. (A theory of beneficence.) He felt that he did not succeed.
+
+A list of approaches to dealing with the Repugnant Conclusion:
+
+1. Average principle
+   Problem: the really happy person is better than the billion quite happy people. Also: a world in which one person is experencing extreme suffering forever is better than a world in which a billion people are experiencing only slightly less extreme suffering forever. (And yet I wonder, which is our world?)
+2. Variable value principles
+   Isn't there a short story about a city where everyone seems happy, yet it's bought at the expense of a child experiencing torment at its centre?
+3. Critical level
+   Have a welfare level that is good above, bad below.
+4. Questioning how welfare can be compared and measured
+5. Counting welfare differently depending on temporal or modal features
+   E.g. when comparing two situations, it only makes sense to consider the welfare of people who would be in BOTH of the situations. Which typically just means _present_ people.
+6. Revising the notion of life worth living
+   Schopenhauerian theories: there is _no_ lives for which the good outweighs the bad. Makes the repugnant conclusion vacuously true: we're already there.
+7. Rejecting transitivity
+   We have a sequence of A+ to B+ to C+ to... Z+, when Z+ being better than A+ by transitivity. Why not deny transitivity?
+8. Appeal to other values
+   "Justicism", there is a level of wellbeing that each person deserves. Feels similar to the critical level approach?
+9. Accept the impossibility of satisfactory population ethics
+   We are, aren't we, trying to carve on stone tablets the messy result of evolution of a social species... why should it really be fully consistent and explicable, our intuitions on what is right?
+10. Accept the repugnant conclusion
+    
 
 # Some random arguments
 
