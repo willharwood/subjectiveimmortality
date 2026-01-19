@@ -136,7 +136,14 @@ A list of approaches to dealing with the Repugnant Conclusion:
 9. Accept the impossibility of satisfactory population ethics
    We are, aren't we, trying to carve on stone tablets the messy result of evolution of a social species... why should it really be fully consistent and explicable, our intuitions on what is right?
 10. Accept the repugnant conclusion
-    
+
+My own thoughts? Second-order effects: a world of a trillion unhappy people is more likely to come to a solution to its unhappiness than a world of one moderately unhappy person (Hah!); all of these arguments are strangely static, as of course my own arguments are. 
+
+## Hobbes: A biography. By AP Martinich.
+
+Family glovers: a connection to Shakespeare.
+
+
 
 # Some random arguments
 
