@@ -144,6 +144,14 @@ My own thoughts? Second-order effects: a world of a trillion unhappy people is m
 Family glovers: a connection to Shakespeare.
 
 
+## A Treatise of Human Nature, by David Hume (1739-40)
+
+https://davidhume.org/texts/t/full
+
+
+## Essay Concerning Human Understanding. By John Locke.
+
+Memory Theory: psychological continuity. 
 
 # Some random arguments
 
