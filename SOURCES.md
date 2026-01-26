@@ -144,6 +144,10 @@ My own thoughts? Second-order effects: a world of a trillion unhappy people is m
 Family glovers: a connection to Shakespeare.
 
 
+## Leviathan, by Thomas Hobbes, 1651
+
+https://www.gutenberg.org/files/3207/3207-h/3207-h
+
 ## A Treatise of Human Nature, by David Hume (1739-40)
 
 https://davidhume.org/texts/t/full
@@ -172,3 +176,7 @@ The present argument: my hand is supported by my arm, which is supported by my s
     If the sun were to disappear no one would notice for over eight minutes.
 
 
+
+
+TODO: phenomenal consciousness, access consciousness	
+depersonalisation still has feeling
