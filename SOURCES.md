@@ -157,6 +157,10 @@ https://davidhume.org/texts/t/full
 
 Memory Theory: psychological continuity. 
 
+
+## Against Egalitarianism, by Benj Hellie
+
+
 # Some random arguments
 
 ## The experience and the experiencer
