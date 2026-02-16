@@ -160,6 +160,12 @@ Memory Theory: psychological continuity.
 
 ## Against Egalitarianism, by Benj Hellie
 
+## Tithonus Poem, by Sappho, and by Tennyson
+
+https://classicalpoets.org/a-translation-of-sapphos-old-age-poem-by-j-simon-harris/
+
+https://www.poetryfoundation.org/poems/45389/tithonus
+
 
 # Some random arguments
 
