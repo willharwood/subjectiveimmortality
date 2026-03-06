@@ -190,3 +190,8 @@ The present argument: my hand is supported by my arm, which is supported by my s
 
 TODO: phenomenal consciousness, access consciousness	
 depersonalisation still has feeling
+
+
+# some sums
+
+2 metres by 2 metres by 2 metres. 8 cubic metres. 8 trillion cubic metres. Cube root: 20 km cubed.
