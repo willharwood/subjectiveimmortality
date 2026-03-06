@@ -195,3 +195,5 @@ depersonalisation still has feeling
 # some sums
 
 2 metres by 2 metres by 2 metres. 8 cubic metres. 8 trillion cubic metres. Cube root: 20 km cubed.
+3*3*3 = 27 square metres.
+Silly! Calculation is cube root(width^3 * 10^12) = width * 10^4
