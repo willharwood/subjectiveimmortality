@@ -171,7 +171,7 @@ https://www.poetryfoundation.org/poems/45389/tithonus
 
 https://consc.net/papers/emergence.pdf.
 
-Strong and weak emergence, weak emergence in support of physicalism, strong emergence against it.
+Strong and weak emergence, weak emergence in support of physicalism, strong emergence against it. Conscious as the obvious strongly emergent phenomenon.
 
 # Some random arguments
 
