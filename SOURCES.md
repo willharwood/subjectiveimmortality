@@ -181,6 +181,8 @@ Strong and weak emergence, weak emergence in support of physicalism, strong emer
 
 Chalmers argues that conscious is in fact the _only_ case of a strongly emergent phenomenon.
 
+Downward causation: 
+
 ## Two sorts of first-cause
 
 The first cause argument has two versions. One through history, one in the present.
