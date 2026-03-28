@@ -179,6 +179,8 @@ Strong and weak emergence, weak emergence in support of physicalism, strong emer
 
 *This* is the central conceptual mistake. There are not two entities, any more than we can be separate from that which we are. Support though is the idea that there could be philosophical zombies, and I don't think that argument at least works. (Also on the colourblind scientists who cannot deduce the feeling of red.)
 
+Chalmers argues that conscious is in fact the _only_ case of a strongly emergent phenomenon.
+
 ## Two sorts of first-cause
 
 The first cause argument has two versions. One through history, one in the present.
