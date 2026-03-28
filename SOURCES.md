@@ -181,7 +181,7 @@ Strong and weak emergence, weak emergence in support of physicalism, strong emer
 
 Chalmers argues that conscious is in fact the _only_ case of a strongly emergent phenomenon.
 
-Downward causation: 
+Downward causation: not an example here, though surely Free Will is historically the obvious example of downward causation.
 
 ## Two sorts of first-cause
 
