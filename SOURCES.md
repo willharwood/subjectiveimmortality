@@ -177,7 +177,7 @@ Strong and weak emergence, weak emergence in support of physicalism, strong emer
 
 ## The experience and the experiencer
 
-*This* is the central conceptual mistake. There are not two entities, any more than we can be separate from that which we are. Support though is the idea that there could be philosophical zombies, and I don't think that argument at least works.
+*This* is the central conceptual mistake. There are not two entities, any more than we can be separate from that which we are. Support though is the idea that there could be philosophical zombies, and I don't think that argument at least works. (Also on the colourblind scientists who cannot deduce the feeling of red.)
 
 ## Two sorts of first-cause
 
