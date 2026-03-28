@@ -167,6 +167,12 @@ https://classicalpoets.org/a-translation-of-sapphos-old-age-poem-by-j-simon-harr
 https://www.poetryfoundation.org/poems/45389/tithonus
 
 
+## Emergence. Chalmers.
+
+https://consc.net/papers/emergence.pdf.
+
+Strong and weak emergence, weak emergence in support of physicalism, strong emergence against it.
+
 # Some random arguments
 
 ## The experience and the experiencer
