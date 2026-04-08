@@ -173,6 +173,10 @@ https://consc.net/papers/emergence.pdf.
 
 Strong and weak emergence, weak emergence in support of physicalism, strong emergence against it. Conscious as the obvious strongly emergent phenomenon.
 
+## The Identity of Indiscernibles, by Max Black, 1952
+
+
+
 # Some random arguments
 
 ## The experience and the experiencer
