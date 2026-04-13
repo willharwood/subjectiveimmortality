@@ -143,6 +143,9 @@ My own thoughts? Second-order effects: a world of a trillion unhappy people is m
 
 Family glovers: a connection to Shakespeare.
 
+Materialist. The physical as the ultimate reality.
+
+De Corpore: on the body. 
 
 ## Leviathan, by Thomas Hobbes, 1651
 
