@@ -143,7 +143,7 @@ My own thoughts? Second-order effects: a world of a trillion unhappy people is m
 
 Family glovers: a connection to Shakespeare.
 
-Materialist. The physical as the ultimate reality. Everything -- everything -- is matter in motion. (And one thing cannoning off another thing.)
+Materialist. The physical as the ultimate reality. Everything -- everything -- is matter in motion. (And one thing cannoning off another thing.) This includes the human mind.
 
 De Corpore: on the body. 
 
