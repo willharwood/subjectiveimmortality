@@ -161,6 +161,13 @@ https://davidhume.org/texts/t/full
 Memory Theory: psychological continuity. 
 
 
+## Elizabeth's criticisms of Descarte's dualism, by Jeff Speaks, 2018
+
+"Given that the soul of a human being is only a thinking substance, how
+can it affect the bodily spirits, in order to bring about voluntary actions?"
+
+
+
 ## Against Egalitarianism, by Benj Hellie
 
 ## Tithonus Poem, by Sappho, and by Tennyson
