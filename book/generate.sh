@@ -7,6 +7,10 @@ cat <<EOF
   <body>
 EOF
 
+echo "<p>Word count: "
+cat book.html | wc -w
+echo "</p>"
+
 python3 generate_contents.py
 
 cat <<EOF
