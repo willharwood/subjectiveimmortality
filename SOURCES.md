@@ -209,7 +209,9 @@ The present argument: my hand is supported by my arm, which is supported by my s
     If the chair were to disappear, my arm would not fall immediately. My body would fall first. There would be a delay.
     If the sun were to disappear no one would notice for over eight minutes.
 
+## Rejection of Laplace's demon
 
+https://www.scribd.com/document/797903508/Rejection-of-Laplace-s-Demon
 
 
 TODO: phenomenal consciousness, access consciousness	
