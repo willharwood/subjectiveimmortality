@@ -86,7 +86,7 @@ https://www.gutenberg.org/cache/epub/52124/pg52124.txt the whole musical box rep
 
 Other ancient sources: Empedocles (c. 494 – c. 434 BC, fl. 444–443 BC; source of the four elements, added love and strife; Lucretius is a fan; comic potential in his death in Mount Etna) postulated cosmic cycles. Pythagoras (c. 570 – c. 495 BC, almost overlaps with Empedocles): a doctrine of cosmological recurrence.
 
-Arthur Danto: you can't prove empirically    you're in an eternal recurrence, as that would be a way to distinguish it from other recurrences, which is a contradiction. Paul Loeb points out that you coould just make the discovery in _every_ cycle.
+Arthur Danto: you can't prove empirically you're in an eternal recurrence, as that would be a way to distinguish it from other recurrences, which is a contradiction. Paul Loeb points out that you coould just make the discovery in _every_ cycle.
 
 ## Being No One. By Thomas Metzinger.
 
