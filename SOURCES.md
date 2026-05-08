@@ -7,6 +7,10 @@
 
 # Some notes on books and papers, to grow
 
+## De rerum natura, Lucretius
+
+https://archive.org/details/bim_eighteenth-century_de-rerum-natura-englis_lucretius-carus-titus_1743_1/page/n27/mode/2up
+
 ## Lucretius, John Godwin, 2004
 
 Aimed at the general reader. De rerum natura.
