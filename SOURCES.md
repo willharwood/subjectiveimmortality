@@ -193,6 +193,11 @@ Strong and weak emergence, weak emergence in support of physicalism, strong emer
 ## The Identity of Indiscernibles, by Max Black, 1952
 
 
+## That to Philosophize Is to Learn to Die, by Michel de Montaigne (1588)
+
+translated by Charles Cotton (1686)
+
+https://monadnock.net/montaigne/learn2.html
 
 # Some random arguments
 
