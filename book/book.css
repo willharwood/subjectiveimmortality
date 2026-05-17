@@ -2,10 +2,15 @@
     margin: 10px;
     width: 600px;
 }
-.thin {
-    margin-left: 60px;
-    width: 800px;
-    text-indent: 30px;
+.book {
+    width: 100%;
+}
+@media (min-width:880px) {
+    .book {
+	margin-left: 60px;
+	width: 800px;
+	text-indent: 30px;
+    }
 }
 p {
     margin: 0px;
