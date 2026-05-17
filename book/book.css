@@ -10,6 +10,7 @@
 }
 .book {
     width: 100%;
+    text-indent: 30px;
 }
 @media (min-width:880px) {
     .book {
