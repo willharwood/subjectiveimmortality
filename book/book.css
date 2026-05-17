@@ -1,9 +1,15 @@
 .abstract {
-    margin: 10px;
-    width: 600px;
+    margin: 5%;
+    width: 80%;
+}
+@media (min-width:880px) {
+    .abstract {
+	margin: 10px;
+	width: 600px;
+    }
 }
 .book {
-    width: 90%;
+    width: 100%;
 }
 @media (min-width:880px) {
     .book {
