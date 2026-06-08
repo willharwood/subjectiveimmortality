@@ -10,8 +10,12 @@
 ## De rerum natura, Lucretius
 
 https://archive.org/details/bim_eighteenth-century_de-rerum-natura-englis_lucretius-carus-titus_1743_1/page/n27/mode/2up
+
+"Indeed mankind, in wretched bondage held, lay grovelling on the ground, galled with the yoke of what is called Religion"
+
 https://www.gutenberg.org/files/785/785-h/785-h.htm
 
+"Whilst human kind throughout the lands lay miserably crushed before all eyes beneath religion"
 
 
 ## Lucretius, John Godwin, 2004
