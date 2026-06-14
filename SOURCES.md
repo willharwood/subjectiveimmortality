@@ -13,6 +13,19 @@ https://archive.org/details/bim_eighteenth-century_de-rerum-natura-englis_lucret
 
 "Indeed mankind, in wretched bondage held, lay grovelling on the ground, galled with the yoke of what is called Religion"
 
+"Nay, if time could collect together our scatter'd particles after death, and reduce
+them into the same Frame they are now in, and the light of life were again bestored upon us,
+canall this, if it were done, relate anything to us, when all the memory of past life were
+interrupted and gone? And now we give ourselves no trouble about what we were formerly, nor
+are we under any anxiety what persons the time to come will raise from our matter
+when it is moulded up again, for when you look back upon that infinite space of time that is past,
+and consider how various are the agitations of matter, you will easily believe those seeds of ours
+have often ranged in the same order they are now in, tho' we can recollect nothing of what was then
+transacted, for a pause of life is thrown in between, and the seeds, so varously rossed about,
+took such motions as were averse and opposite to all sense."
+Pg 269
+
+
 https://www.gutenberg.org/files/785/785-h/785-h.htm
 
 "Whilst human kind throughout the lands lay miserably crushed before all eyes beneath religion"
