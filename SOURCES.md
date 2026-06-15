@@ -29,7 +29,6 @@ Pg 269
 relation to us; and the nature of time to come will be of the same concern to us after we are dead.
 And now does any thing show dreadful in death? Has it any thing melancholy in its appearance?
 Is it not more serene than the softest sleep?"
-Pg 279
 
 
 https://www.gutenberg.org/files/785/785-h/785-h.htm
