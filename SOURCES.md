@@ -35,6 +35,9 @@ https://www.gutenberg.org/files/785/785-h/785-h.htm
 
 "Whilst human kind throughout the lands lay miserably crushed before all eyes beneath religion"
 
+## The Swerve, Stephen Greenblatt
+
+
 
 ## Lucretius, John Godwin, 2004
 
