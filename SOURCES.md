@@ -38,6 +38,14 @@ https://www.gutenberg.org/files/785/785-h/785-h.htm
 ## The Swerve, Stephen Greenblatt
 
 
+# Michael Andrew Screech. Montaigne’s annotated copy of
+
+Lucretius : a transcription and study of the manuscript, notes
+and pen-marks
+Jean Balsamo
+
+https://univ-reims.hal.science/hal-03148223/document
+
 
 ## Lucretius, John Godwin, 2004
 
