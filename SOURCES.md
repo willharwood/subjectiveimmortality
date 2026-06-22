@@ -198,6 +198,13 @@ https://www.gutenberg.org/files/3207/3207-h/3207-h
 
 https://davidhume.org/texts/t/full
 
+## Dialogues Concerning Natural Religion, by David Hume
+
+https://bertie.ccsu.edu/naturesci/Evolution/Unit11NatTheo/Hume.html
+
+All the new discoveries in astronomy, which prove the immense grandeur and magnificence of the works of nature, are so many additional arguments for a Deity, according to the true system of theism: But according to your hypothesis of experimental theism, they become so many objections, by removing the effect still farther from all resemblance to the effects of human art and contrivance. For if Lucretius, even following the old system of the world, could exclaim, "Who can rule the sum, who hold in his hand with controlling force the strong reins, of the immeasurable deep? who can at once make all the different heavens to roll and warm with ethereal fires all the fruitful earths, or be present in all places at all times "
+
+
 
 ## Essay Concerning Human Understanding. By John Locke.
 
