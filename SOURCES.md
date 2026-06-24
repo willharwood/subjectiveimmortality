@@ -198,6 +198,10 @@ https://www.gutenberg.org/files/3207/3207-h/3207-h
 
 https://davidhume.org/texts/t/full
 
+## Enquiry concerning Human Understanding, Hume
+
+https://www.gutenberg.org/files/9662/9662-h/9662-h.htm
+
 ## Dialogues Concerning Natural Religion, by David Hume
 
 https://bertie.ccsu.edu/naturesci/Evolution/Unit11NatTheo/Hume.html
