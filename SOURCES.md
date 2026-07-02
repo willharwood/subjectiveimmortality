@@ -35,6 +35,8 @@ https://www.gutenberg.org/files/785/785-h/785-h.htm
 
 "Whilst human kind throughout the lands lay miserably crushed before all eyes beneath religion"
 
+Lucy Hutchinson: https://archive.org/details/lucyhutchinsonst0000lucr/page/n1/mode/2up
+
 ## The Swerve, Stephen Greenblatt
 
 
