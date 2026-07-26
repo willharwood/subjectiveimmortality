@@ -248,6 +248,8 @@ translated by Charles Cotton (1686)
 
 https://monadnock.net/montaigne/learn2.html
 
+Ceiling quotations: https://thetrueaesthete.art/montaignes-library-inscriptions
+
 # Some random arguments
 
 ## The experience and the experiencer
