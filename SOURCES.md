@@ -258,6 +258,8 @@ Ceiling quotations: https://thetrueaesthete.art/montaignes-library-inscriptions
 
 The Peace of Things
 
+  I come into the peace of wild things / Who do not tax their lives with foresight / of grief.
+
 # Some random arguments
 
 ## The experience and the experiencer
