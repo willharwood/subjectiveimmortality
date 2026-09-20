@@ -241,18 +241,22 @@ Strong and weak emergence, weak emergence in support of physicalism, strong emer
 
 ## Does a rock implement every finite-state automaton? Chalmerrs, 1996
 
-
+;koi
 
 ## The Identity of Indiscernibles, by Max Black, 1952
 
 
 ## That to Philosophize Is to Learn to Die, by Michel de Montaigne (1588)
-
+[B
 translated by Charles Cotton (1686)
 
 https://monadnock.net/montaigne/learn2.html
 
 Ceiling quotations: https://thetrueaesthete.art/montaignes-library-inscriptions
+
+## Wendell Berry
+
+The Peace of Things
 
 # Some random arguments
 
