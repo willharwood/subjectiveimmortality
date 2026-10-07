@@ -254,6 +254,10 @@ https://monadnock.net/montaigne/learn2.html
 
 Ceiling quotations: https://thetrueaesthete.art/montaignes-library-inscriptions
 
+## Wittgenstein, Tractatus
+
+6.53 no meaning to certain signs in his propositions
+
 ## Wendell Berry
 
 The Peace of Things
