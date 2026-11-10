@@ -99,6 +99,15 @@ Boltzmann's suggestion _both_ that the universe as a whole is in thermal equilib
 
 I have some sympathy with this picture of reality.
 
+## John Donne, Poetical Works
+
+248
+
+And as if man feed on mans flesh, and so
+Part of his body to another owe,
+Yet at the last two perfect bodies rise,
+Because God knowes where every Atome lyes.
+
 ## Recurrence Theorems: A unified account. By David Wallace
 
 Poincare recurrence theorem.
