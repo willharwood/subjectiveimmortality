@@ -108,6 +108,12 @@ Part of his body to another owe,
 Yet at the last two perfect bodies rise,
 Because God knowes where every Atome lyes.
 
+
+Infinitati Sacrum
+
+Though this soul could not move when it was a Melon, yet it may remember, and now tell mee, at what lascivious banquet it was serv'd. And though it could not speak, when i twas a spider, it can remember, and now tell me, who used it for poyson to attain dignitie.
+
+
 ## Recurrence Theorems: A unified account. By David Wallace
 
 Poincare recurrence theorem.
